@@ -11,7 +11,7 @@ Paper link: https://ieeexplore.ieee.org/document/9316119
 link to slides: https://docs.google.com/presentation/d/1JOKR6Ow2bDX-jm2i4--QJqcRjdh7K0Cwn1uqAWR1iAA/edit?usp=sharing
 
 
-individual submitter
+individual submitter: 
 Reak Roy
 22301776
 Group 8
@@ -27,7 +27,7 @@ Paper link: https://ieeexplore.ieee.org/document/4804817
 
 link to slides: https://docs.google.com/presentation/d/1-OXWA1m0RlNgGUaI-QavbOIRJtxHsG6kg6Rtcv7v9Mw/edit?usp=sharing
 
-individual submitter
+individual submitter: 
 Reak Roy
 22301776
 Group 8
