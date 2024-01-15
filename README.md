@@ -40,7 +40,7 @@ Task 5
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/project/65760defc33c23d0c1820fb2
 
-Link to unlisted YouTube video:
+Link to unlisted YouTube video: https://www.youtube.com/watch?v=iFppybOsLuc&list=PLCrXbaG9JkRtepSzhlJHJKy2UHBmecPMN&index=5
 
 Public link to the slide (Anyone on the internet can view without login):
 
